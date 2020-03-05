@@ -1,0 +1,12 @@
+{
+  "custom": {
+    "homepage": "big",
+    "shop": "list"
+  },
+  "corp": {
+    "title": "THE GATSBY PROJECT",
+    "logo": "https://mk0javascriptfoyi7o2.kinstacdn.com/wp-content/uploads/2019/03/badge-gatsby.png",
+    "description": "The objective of this project was to create a white label e-commerce site using @Gatsby, a framework based on React that helps developers build fast websites and apps and React, a JavaScript library to design interactive UIs and simple views for each state of an application.",
+    "contributors": "This is awesome website has been brought to you by Quentin Allary & Rémi Pontonnier."
+  }
+}
